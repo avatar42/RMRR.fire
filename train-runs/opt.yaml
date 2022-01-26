@@ -1,0 +1,48 @@
+model: yolov5m
+classes: ''
+dataset_path: ../deepstack
+hyp: data/hyp.scratch.yaml
+epochs: 300
+batch_size: 16
+img_size:
+- 640
+- 640
+rect: false
+resume: false
+nosave: false
+notest: false
+noautoanchor: false
+evolve: false
+bucket: ''
+cache_images: false
+image_weights: false
+device: ''
+multi_scale: false
+single_cls: false
+adam: false
+sync_bn: false
+local_rank: -1
+log_imgs: 16
+workers: 8
+project: train-runs/deepstack
+name: fire
+exist_ok: true
+cfg: .\models\yolov5m.yaml
+weights: yolov5m.pt
+data:
+  train: ../deepstack\train
+  val: ../deepstack\test
+  nc: 8
+  names:
+  - fire
+  - smoke
+  - clouds
+  - plane_night
+  - helicopter
+  - plane
+  - bird
+  - ''
+total_batch_size: 16
+world_size: 1
+global_rank: -1
+save_dir: train-runs\deepstack\fire

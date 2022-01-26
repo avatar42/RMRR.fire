@@ -1,0 +1,63 @@
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+For images in:train/../test/ with min_confidence set to 0.5
+
+Of 2910 tests
+ Ran:2910
+ Skipped:0
+ Passed:2909
+ Warnings:5
+ Failed:1

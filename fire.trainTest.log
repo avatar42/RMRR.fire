@@ -1,0 +1,68 @@
+
+Of 2 expected ['smoke', 'clouds'] found objects, found:3 objects ['clouds', 'clouds', 'smoke'] in ck0k9ghqt7a8l0944mcvy0jsx_jpeg.rf.5b55501a403c70b4dba61727046660b5.jpg
+
+FAILED:Expected object clouds not found in test image:ck0kdgfrn7loi0944bc5njxd7_jpeg.rf.e77b9a3d458cca0a65c750a0e39b2036.jpg
+
+FAILED:Expected object clouds not found in test image:ck0khu2xz94nj070165dkfirk_jpeg.rf.d511cbdb4c1162cf08d710561abef2b3.jpg
+
+Of 2 expected ['smoke', 'clouds'] found objects, found:3 objects ['clouds', 'smoke', 'clouds'] in ck0kkg80v5x900794hcgsb4e1_jpeg.rf.c14e4f9813670fcb8bc4bc762fb0afa8.jpg
+
+FAILED:Expected object clouds not found in test image:ck0l9vmuparhg0838oe20j0bd_jpeg.rf.ef939ad40b43a4c66054c5da14275db8.jpg
+
+Of 2 expected ['clouds', 'smoke'] found objects, found:3 objects ['clouds', 'clouds', 'smoke'] in ck0lzyygqj00t0944qnwlwjf2_jpeg.rf.fbbbc2b4e6b9dd5b8242be555a897ed4.jpg
+
+FAILED:Expected object smoke not found in test image:ck0uk75x5ysls0721e5a9j891_jpeg.rf.00d7fd8503e1e0e6a66294f3db79b346.jpg
+
+FAILED:Expected object smoke not found in test image:HV418.20220111_195547068.30.jpg
+
+FAILED:Expected object smoke not found in test image:HV418.20220111_195547068.30.jpg
+.
+Ran 1 server up tests in 0:00:00.009006
+...........................................
+.....................................................................................................................
+[]
+...................................................................................................................................
+[]
+............................
+..............................................................................................................................................................................................................................................................................................................................................
+[]
+.......................................................................................................................................................
+.....................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+[]
+............................................................................................................................................................................................................................
+['fire', 'clouds']
+.....................................................................................................................................................................................
+For images in:train/ with min_confidence set to 50.00%
+fire found 43.0 of 43.0 expected objects with an average confidence of 75.94% min:56.23% max:90.73% adjusted avg:75.94%
+smoke found 416.0 of 418.0 expected objects with an average confidence of 93.28% min:64.67% max:98.36% adjusted avg:92.83%
+clouds found 378.0 of 378.0 expected objects with an average confidence of 90.60% min:53.82% max:97.81% adjusted avg:90.60%
+plane_night found 1.0 of 1.0 expected objects with an average confidence of 78.88% min:78.88% max:78.88% adjusted avg:78.88%
+helicopter found 6.0 of 6.0 expected objects with an average confidence of 92.04% min:89.09% max:95.23% adjusted avg:92.04%
+plane found 0.0 of 0.0 expected objects with an average confidence of 0 min:100.00% max:0.00% adjusted avg:0
+bird found 4.0 of 4.0 expected objects with an average confidence of 78.46% min:76.63% max:79.36% adjusted avg:78.46%
+...........................................................................................................................................................................................
+['fire', 'clouds']
+..................................................................................................................................................................................................
+For images in:test/ with min_confidence set to 50.00%
+fire found 44.0 of 44.0 expected objects with an average confidence of 75.28% min:56.23% max:90.73% adjusted avg:75.28%
+smoke found 54.0 of 55.0 expected objects with an average confidence of 91.46% min:80.12% max:97.05% adjusted avg:89.80%
+clouds found 58.0 of 58.0 expected objects with an average confidence of 95.45% min:87.56% max:97.03% adjusted avg:95.45%
+plane_night found 1.0 of 1.0 expected objects with an average confidence of 78.88% min:78.88% max:78.88% adjusted avg:78.88%
+helicopter found 0.0 of 0.0 expected objects with an average confidence of 0 min:100.00% max:0.00% adjusted avg:0
+plane found 0.0 of 0.0 expected objects with an average confidence of 0 min:100.00% max:0.00% adjusted avg:0
+bird found 0.0 of 0.0 expected objects with an average confidence of 0 min:100.00% max:0.00% adjusted avg:0
+Found 1005.0 of 1008.0 expected objects in 475 image files
+
+Of 2910 tests
+ Ran:2910
+ Skipped:0
+ Passed:2904
+ Warnings:3
+ Failed:6
+
+Ran 2909 trainTest tests in 0:01:20.774026
+Check images in debug.pics/ match the object in the file name.
+Image files that did not match are marked up with found in green and expected in red
+Matching map files matching the found data are saved to debug.pics/ as well
+Lastly image name and confidence list files are created for each
+ object class and 'EMPTY' (no objects in image) named [object class].lst.txt

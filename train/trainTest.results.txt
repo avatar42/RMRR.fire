@@ -1,0 +1,16 @@
+Of 2 expected ['smoke', 'clouds'] found objects, found:3 objects ['clouds', 'clouds', 'smoke'] in ck0k9ghqt7a8l0944mcvy0jsx_jpeg.rf.5b55501a403c70b4dba61727046660b5.jpg
+Of 3 expected ['smoke', 'clouds', 'clouds'] found objects, found:2 objects ['clouds', 'smoke'] in ck0kdgfrn7loi0944bc5njxd7_jpeg.rf.e77b9a3d458cca0a65c750a0e39b2036.jpg
+Of 3 expected ['smoke', 'clouds', 'clouds'] found objects, found:2 objects ['clouds', 'smoke'] in ck0khu2xz94nj070165dkfirk_jpeg.rf.d511cbdb4c1162cf08d710561abef2b3.jpg
+Of 2 expected ['smoke', 'clouds'] found objects, found:3 objects ['clouds', 'smoke', 'clouds'] in ck0kkg80v5x900794hcgsb4e1_jpeg.rf.c14e4f9813670fcb8bc4bc762fb0afa8.jpg
+Of 4 expected ['smoke', 'clouds', 'clouds', 'clouds'] found objects, found:3 objects ['clouds', 'clouds', 'smoke'] in ck0l9vmuparhg0838oe20j0bd_jpeg.rf.ef939ad40b43a4c66054c5da14275db8.jpg
+Of 2 expected ['clouds', 'smoke'] found objects, found:3 objects ['clouds', 'clouds', 'smoke'] in ck0lzyygqj00t0944qnwlwjf2_jpeg.rf.fbbbc2b4e6b9dd5b8242be555a897ed4.jpg
+Of 2 expected ['smoke', 'smoke'] found objects, found:1 objects ['smoke'] in ck0uk75x5ysls0721e5a9j891_jpeg.rf.00d7fd8503e1e0e6a66294f3db79b346.jpg
+Of 5 expected ['plane_night', 'smoke', 'smoke', 'clouds', 'fire'] found objects, found:4 objects ['fire', 'plane_night', 'smoke', 'clouds'] in HV418.20220111_195547068.30.jpg
+For images in:train/ with min_confidence set to 0.5
+
+Of 2528 tests
+ Ran:2528
+ Skipped:0
+ Passed:2523
+ Warnings:3
+ Failed:5
