@@ -1,0 +1,7 @@
+fire
+smoke
+clouds
+plane_night
+helicopter
+plane
+bird
