@@ -1,63 +1,16 @@
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
-For images in:train/../test/ with min_confidence set to 0.5
+For images in:test/ with min_confidence set to 50.00%
+fire found 44.0 of 44.0 expected objects with an average confidence of 85.31% min:63.50% max:92.06% adjusted avg:85.31%
+smoke found 55.0 of 55.0 expected objects with an average confidence of 91.50% min:55.09% max:96.04% adjusted avg:91.50%
+clouds found 58.0 of 58.0 expected objects with an average confidence of 95.73% min:89.41% max:96.84% adjusted avg:95.73%
+plane_night found 1.0 of 1.0 expected objects with an average confidence of 88.45% min:88.45% max:88.45% adjusted avg:88.45%
+helicopter found 0.0 of 0.0 expected objects with an average confidence of 0 min:100.00% max:0.00% adjusted avg:0
+plane found 0.0 of 0.0 expected objects with an average confidence of 0 min:100.00% max:0.00% adjusted avg:0
+bird found 0.0 of 0.0 expected objects with an average confidence of 0 min:100.00% max:0.00% adjusted avg:0
+helicopter_night found 0.0 of 0.0 expected objects with an average confidence of 0 min:100.00% max:0.00% adjusted avg:0
 
-Of 2910 tests
- Ran:2910
+Of 3627 tests
+ Ran:3627
  Skipped:0
- Passed:2909
- Warnings:5
- Failed:1
+ Passed:3627
+ Warnings:2
+ Failed:0

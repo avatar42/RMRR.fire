@@ -5,3 +5,4 @@ plane_night
 helicopter
 plane
 bird
+helicopter_night

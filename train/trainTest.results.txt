@@ -1,16 +1,17 @@
-Of 2 expected ['smoke', 'clouds'] found objects, found:3 objects ['clouds', 'clouds', 'smoke'] in ck0k9ghqt7a8l0944mcvy0jsx_jpeg.rf.5b55501a403c70b4dba61727046660b5.jpg
-Of 3 expected ['smoke', 'clouds', 'clouds'] found objects, found:2 objects ['clouds', 'smoke'] in ck0kdgfrn7loi0944bc5njxd7_jpeg.rf.e77b9a3d458cca0a65c750a0e39b2036.jpg
-Of 3 expected ['smoke', 'clouds', 'clouds'] found objects, found:2 objects ['clouds', 'smoke'] in ck0khu2xz94nj070165dkfirk_jpeg.rf.d511cbdb4c1162cf08d710561abef2b3.jpg
-Of 2 expected ['smoke', 'clouds'] found objects, found:3 objects ['clouds', 'smoke', 'clouds'] in ck0kkg80v5x900794hcgsb4e1_jpeg.rf.c14e4f9813670fcb8bc4bc762fb0afa8.jpg
-Of 4 expected ['smoke', 'clouds', 'clouds', 'clouds'] found objects, found:3 objects ['clouds', 'clouds', 'smoke'] in ck0l9vmuparhg0838oe20j0bd_jpeg.rf.ef939ad40b43a4c66054c5da14275db8.jpg
-Of 2 expected ['clouds', 'smoke'] found objects, found:3 objects ['clouds', 'clouds', 'smoke'] in ck0lzyygqj00t0944qnwlwjf2_jpeg.rf.fbbbc2b4e6b9dd5b8242be555a897ed4.jpg
-Of 2 expected ['smoke', 'smoke'] found objects, found:1 objects ['smoke'] in ck0uk75x5ysls0721e5a9j891_jpeg.rf.00d7fd8503e1e0e6a66294f3db79b346.jpg
-Of 5 expected ['plane_night', 'smoke', 'smoke', 'clouds', 'fire'] found objects, found:4 objects ['fire', 'plane_night', 'smoke', 'clouds'] in HV418.20220111_195547068.30.jpg
-For images in:train/ with min_confidence set to 0.5
+Of 2 expected ['clouds', 'smoke'] found objects, found:3 objects ['smoke', 'smoke', 'clouds'] in HV411.0900-1059.01_15_44_09.Still006.jpg
+For images in:train/ with min_confidence set to 50.00%
+fire found 86.0 of 86.0 expected objects with an average confidence of 86.35% min:68.02% max:92.27% adjusted avg:86.35%
+smoke found 487.0 of 486.0 expected objects with an average confidence of 93.50% min:69.21% max:97.22% adjusted avg:93.69%
+clouds found 498.0 of 498.0 expected objects with an average confidence of 93.79% min:69.22% max:96.90% adjusted avg:93.79%
+plane_night found 7.0 of 7.0 expected objects with an average confidence of 81.63% min:68.68% max:88.45% adjusted avg:81.63%
+helicopter found 16.0 of 16.0 expected objects with an average confidence of 90.65% min:86.90% max:93.40% adjusted avg:90.65%
+plane found 9.0 of 9.0 expected objects with an average confidence of 76.91% min:69.00% max:83.26% adjusted avg:76.91%
+bird found 5.0 of 5.0 expected objects with an average confidence of 81.35% min:77.83% max:84.61% adjusted avg:81.35%
+helicopter_night found 8.0 of 8.0 expected objects with an average confidence of 85.57% min:81.97% max:88.26% adjusted avg:85.57%
 
-Of 2528 tests
- Ran:2528
+Of 3245 tests
+ Ran:3245
  Skipped:0
- Passed:2523
- Warnings:3
- Failed:5
+ Passed:3245
+ Warnings:1
+ Failed:0

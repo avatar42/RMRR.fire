@@ -2,7 +2,7 @@ model: yolov5m
 classes: ''
 dataset_path: ../deepstack
 hyp: data/hyp.scratch.yaml
-epochs: 300
+epochs: 3000
 batch_size: 16
 img_size:
 - 640
@@ -32,7 +32,7 @@ weights: yolov5m.pt
 data:
   train: ../deepstack\train
   val: ../deepstack\test
-  nc: 8
+  nc: 9
   names:
   - fire
   - smoke
@@ -41,6 +41,7 @@ data:
   - helicopter
   - plane
   - bird
+  - helicopter_night
   - ''
 total_batch_size: 16
 world_size: 1
