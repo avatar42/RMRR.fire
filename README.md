@@ -1,5 +1,5 @@
-# RMRR DeepStack model
-A concept [DeepStack](https://github.com/johnolafenwa/DeepStack) YOLOV5 model for detection emergencies in my valley from my tower / sky cams.
+# RMRR DeepStack model fire
+A concept [DeepStack](https://github.com/johnolafenwa/DeepStack) YOLOV5 model for detection emergencies in my valley from my tower / sky cams. Mainly fires and Starflight fly overs.
 
 See [Convert and Merge example](https://github.com/avatar42/deepstack/wiki/ConvertAndMerge) for details on its creation.
 
