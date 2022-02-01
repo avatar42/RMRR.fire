@@ -3,7 +3,7 @@ PATH=C:\cygwin\bin;%PATH%
 
 rem vars that may change
 rem model name
-set MNAME=RMRR.fire
+set MNAME=fire
 rem folder name which is used default project name
 set MFOLD=RMRR.fire
 rem name of docker container being used to test with

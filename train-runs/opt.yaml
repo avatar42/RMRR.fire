@@ -2,7 +2,7 @@ model: yolov5m
 classes: ''
 dataset_path: ../deepstack
 hyp: data/hyp.scratch.yaml
-epochs: 3000
+epochs: 600
 batch_size: 16
 img_size:
 - 640

@@ -1,7 +1,7 @@
 # RMRR DeepStack model fire
 A concept [DeepStack](https://github.com/johnolafenwa/DeepStack) YOLOV5 model for detection emergencies in my valley from my tower / sky cams. Mainly fires and Starflight fly overs.
 
-See [Convert and Merge example](https://github.com/avatar42/deepstack/wiki/ConvertAndMerge) for details on its creation.
+See [Convert and Merge example](https://github.com/avatar42/deepstack/wiki/ConvertAndMerge) for details on its creation and 0.X versions.
 
 Note training images ck*.jpg are from the [Kaggle WildFire-Smoke-Dataset-Yolo](https://www.kaggle.com/ahemateja19bec1025/wildfiresmokedatasetyolo) dataset though the mappings are mostly altered to better align with my detection goals.
 

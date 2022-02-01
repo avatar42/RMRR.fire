@@ -1,13 +1,13 @@
-Of 2 expected ['clouds', 'smoke'] found objects, found:3 objects ['smoke', 'smoke', 'clouds'] in HV411.0900-1059.01_15_44_09.Still006.jpg
+Of 2 expected ['plane', 'clouds'] found objects, found:3 objects ['plane', 'plane', 'clouds'] in HV419.20200422_190631_1.00_00_11_07.Still002.jpg
 For images in:train/ with min_confidence set to 50.00%
-fire found 86.0 of 86.0 expected objects with an average confidence of 86.35% min:68.02% max:92.27% adjusted avg:86.35%
-smoke found 487.0 of 486.0 expected objects with an average confidence of 93.50% min:69.21% max:97.22% adjusted avg:93.69%
-clouds found 498.0 of 498.0 expected objects with an average confidence of 93.79% min:69.22% max:96.90% adjusted avg:93.79%
-plane_night found 7.0 of 7.0 expected objects with an average confidence of 81.63% min:68.68% max:88.45% adjusted avg:81.63%
-helicopter found 16.0 of 16.0 expected objects with an average confidence of 90.65% min:86.90% max:93.40% adjusted avg:90.65%
-plane found 9.0 of 9.0 expected objects with an average confidence of 76.91% min:69.00% max:83.26% adjusted avg:76.91%
-bird found 5.0 of 5.0 expected objects with an average confidence of 81.35% min:77.83% max:84.61% adjusted avg:81.35%
-helicopter_night found 8.0 of 8.0 expected objects with an average confidence of 85.57% min:81.97% max:88.26% adjusted avg:85.57%
+fire found 86.0 of 86.0 expected objects with an average confidence of 88.18% min:68.66% max:96.92% adjusted avg:88.18%
+smoke found 486.0 of 486.0 expected objects with an average confidence of 95.54% min:82.90% max:98.86% adjusted avg:95.54%
+clouds found 498.0 of 498.0 expected objects with an average confidence of 94.53% min:59.26% max:98.52% adjusted avg:94.53%
+plane_night found 7.0 of 7.0 expected objects with an average confidence of 86.99% min:77.73% max:92.76% adjusted avg:86.99%
+helicopter found 17.0 of 17.0 expected objects with an average confidence of 94.12% min:88.60% max:96.24% adjusted avg:94.12%
+plane found 10.0 of 9.0 expected objects with an average confidence of 79.16% min:51.25% max:88.13% adjusted avg:87.96%
+bird found 4.0 of 4.0 expected objects with an average confidence of 84.32% min:75.91% max:89.59% adjusted avg:84.32%
+helicopter_night found 8.0 of 8.0 expected objects with an average confidence of 90.29% min:84.03% max:93.76% adjusted avg:90.29%
 
 Of 3245 tests
  Ran:3245
