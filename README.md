@@ -32,7 +32,7 @@ To use the model download the `fire.pt` file to your `C:\DeepStack\MyModels` fol
 
 The list of currently trained for objects in in [fire_classes.txt](./fire_classes.txt)
 
-[trainTest](https://github.com/avatar42/deepstack/blob/main/trainTest.py) results are in [train/trainTest.results.txt](https://github.com/avatar42/RMRR.model/blob/main/train/trainTest.results.txt)
+[trainTest](https://github.com/avatar42/deepstack/blob/main/trainTest.py) results are in [train/trainTest.results.txt](https://github.com/avatar42/RMRR.fire/blob/main/train/trainTest.results.txt)
 
 [debug.pics](https://github.com/avatar42/RMRR.fire/tree/main/debug.pics) contains training run debug images highlighting where the model did not fully align with expected results, suggested map changes and such.
 
